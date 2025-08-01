@@ -197,7 +197,7 @@ for row in range(len(arr2D)):
         sum += arr2D[row][col]
     arr.append(sum)
     sum = 0
-print9arr
+print(arr)
 ## Output: 40
 ``` 
 
